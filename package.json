@@ -1,0 +1,21 @@
+{
+  "name": "rain-water-trap",
+  "version": "1.0.0",
+  "description": "rain-water-trap task for code battle",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKovalchuk/rain-water-trap"
+  },
+  "author": "SergeyKovalchuk",
+  "bugs": {
+    "url": "https://github.com/SergeyKovalchuk/rain-water-trap/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "homepage": "https://github.com/SergeyKovalchuk/rain-water-trap#readme"
+}
